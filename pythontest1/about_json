@@ -1,0 +1,11 @@
+
+json is a lightweight data interaction format, can used to data exchange
+between different computer language
+just as english in human language
+json is either a separate dict or a list with dict as an element
+json can exchange string to dict and list of dict
+
+Json's main important method:loads and dumps
+
+
+

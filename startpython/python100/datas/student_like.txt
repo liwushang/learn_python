@@ -1,0 +1,7 @@
+liwushang ,basketball,badminton
+liwuqu ,basketball,pinpan
+liwuqing ,basketball,billiards
+lijiajia ,basketball,football,billiards
+lihaoming ,badminton,pinpan,billiards
+liwuhui ,badminton
+liwuheng ,pinpan,billiards

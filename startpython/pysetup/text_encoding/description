@@ -1,0 +1,10 @@
+ASCII and Unicode
+UTF-8:use 6 bytes to description information
+Chinese character ues 3 bytes expressed
+python2 do not support chinese character
+python2.x use ASCII encoding by default
+so,to run the programing comtains chinese character
+we should add some information on the first of our programming as follows:
+# *-* coding:utf8 *-*
+or:
+# coding=utf8

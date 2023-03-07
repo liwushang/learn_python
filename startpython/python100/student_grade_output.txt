@@ -1,0 +1,8 @@
+101,liwushang,88
+104,liwuhen,88
+105,liwuhui,84
+106,lijia,83
+102,liwuqu,77
+107,lijiajia,68
+103,liwuqing,66
+108,liwuai,48

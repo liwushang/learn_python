@@ -1,0 +1,18 @@
+use pip to install Third-party modules
+example:
+        sudo pip3 install pygame
+        sudo pip3 uninstall pygame
+the number 3 means python3
+
+generally speakinng, files are divided into binary and text files
+text files
+text files:     python source program
+binary files:   picture files, audio files
+it is not directly read
+
+
+
+operation about files
+1.open
+2.read write
+3.close
